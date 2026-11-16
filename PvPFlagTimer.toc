@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: PvP Flag Timer
+## Notes: Shows the time left on your PvP flag under the PvP crest on your player frame. Settings in the EllesmereUI panel. /pvptimer
+## Version: 1.0
+## IconTexture: Interface\AddOns\PvPFlagTimer\icon.tga
+## Category: |cffffb347Homebrew|r
+## OptionalDeps: EllesmereUI, EllesmereUIUnitFrames
+## SavedVariables: PvPFlagTimerDB
+
+PvPFlagTimer.lua
