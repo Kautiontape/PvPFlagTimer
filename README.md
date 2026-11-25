@@ -1,5 +1,9 @@
 # PvP Flag Timer
 
+> **Archived in November 2026.** EllesmereUI 9.8.9 and later can show the PvP flag countdown beside the Faction/PvP Indicator on its player frame. Turn it on with PvP Flagged Timer under Unit Frames > Main Frames > Extras, with the player frame selected.
+>
+> EllesmereUI's timer text is always white, while this addon lets you pick the color. This addon is no longer maintained.
+
 A World of Warcraft Forever addon that shows the time left on your PvP flag, under the PvP crest on your player frame. It only shows while the flag is counting down. A flag you turn on with `/pvp` doesn't expire, so it has no countdown.
 
 ## Requirements
